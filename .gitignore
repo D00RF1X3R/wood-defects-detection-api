@@ -3,3 +3,4 @@ uploads
 bgs
 models/wood-detection-model_openvino_model
 models/wood-detection-model-100_openvino_model
+.idea
